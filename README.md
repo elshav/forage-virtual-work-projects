@@ -32,6 +32,7 @@ This project replicates and expands on the original task provided by [ACCA]() in
 3. For analysis, open `task1_analysis.ipynb` in Jupyter Notebook.
 
 ## Project Structure
+```bash
 forage-projects-expansion/
 ├── accounting-analytics/
 │   ├── task1-basic/
@@ -122,4 +123,4 @@ forage-projects-expansion/
         ├── accounting_data.csv
         ├── sales_data.csv
         └── modeling_data.csv
-
+```
